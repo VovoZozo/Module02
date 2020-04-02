@@ -10,3 +10,5 @@ making changes through GitHub
 making new changes through GitHub
 
 pull with conflict
+
+new text here
