@@ -1,3 +1,7 @@
 first commit from bash
 
+
 merge no conflict
+
+merge with conflict
+
