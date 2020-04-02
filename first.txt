@@ -7,4 +7,6 @@ merge with conflict
 
 making changes through GitHub
 
+making new changes through GitHub
+
 pull with conflict
