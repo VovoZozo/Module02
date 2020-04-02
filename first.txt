@@ -5,3 +5,4 @@ merge no conflict
 
 merge with conflict
 
+making changes through GitHub
