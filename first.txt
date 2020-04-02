@@ -14,3 +14,5 @@ pull with conflict
 add tag1
 
 add tag2
+
+stash
